@@ -1,0 +1,64 @@
+//@keyframes yellowfade {
+//	from {
+//		background: #94a5a6;
+//	}
+//	to {
+//		background: transparent;
+//	}
+//}
+//
+//.flasher-yellow {
+//	animation: yellowfade 10s;
+//}
+//
+//@keyframes greenfade {
+//	from {
+//		background: #f5c205;
+//	}
+//	to {
+//		background: transparent;
+//	}
+//}
+//
+//.flasher-green {
+//	animation: greenfade 10s;
+//}
+//
+//@keyframes redfade {
+//	from {
+//		background: #ee4b38;
+//	}
+//	to {
+//		background: transparent;
+//	}
+//}
+//
+//.flasher-red {
+//	animation: redfade 10s;
+//}
+//
+//@keyframes redBorderfade {
+//	from {
+//		border-color: #ee4b38;
+//	}
+//	to {
+//		border-color: transparent;
+//	}
+//}
+//
+//.flasher-border-red {
+//	animation: redBorderfade 10s;
+//}
+
+
+
+.profile-pic {
+	width: 84px;
+	height: 84px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: 0 0;
+	background-color: transparent;
+	border: 10px solid white;
+	margin-top: -10px;
+}

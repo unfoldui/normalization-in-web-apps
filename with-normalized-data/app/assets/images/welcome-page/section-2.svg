@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="192px" height="150px" viewBox="0 0 192 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 27</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="75" cy="75" r="75"></circle>
+    </defs>
+    <g id="Welcome-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Tablet-Web-Welcome" transform="translate(-300.000000, -490.000000)">
+            <g id="Group-27" transform="translate(301.000000, 490.000000)">
+                <path d="M8.20833333,104.5 L29.0416667,104.5" id="Line-4-Copy-14" stroke="#405F88" stroke-width="3" opacity="0.15" stroke-linecap="round"></path>
+                <path d="M0.666666667,104.5 L3.33333333,104.5" id="Line-4-Copy-14" stroke="#405F88" stroke-width="3" opacity="0.15" stroke-linecap="round"></path>
+                <path d="M17.6666667,72.5 L20.3333333,72.5" id="Line-4-Copy-14" stroke="#405F88" stroke-width="3" opacity="0.15" stroke-linecap="round"></path>
+                <path d="M28.6666667,124.5 L75.3333333,124.5" id="Line-4-Copy-14" stroke="#405F88" stroke-width="3" opacity="0.15" stroke-linecap="round"></path>
+                <path d="M18.1666667,50.5 L22.8333333,50.5" id="Line-4-Copy-14" stroke="#405F88" stroke-width="3" opacity="0.15" stroke-linecap="round"></path>
+                <path d="M9.66666667,50.5 L12.3333333,50.5" id="Line-4-Copy-14" stroke="#405F88" stroke-width="3" opacity="0.15" stroke-linecap="round"></path>
+                <path d="M33,20.5 L49,20.5" id="Line-4-Copy-14" stroke="#405F88" stroke-width="3" opacity="0.15" stroke-linecap="round"></path>
+                <path d="M19.6666667,20.5 L26.3333333,20.5" id="Line-4-Copy-14" stroke="#405F88" stroke-width="3" opacity="0.15" stroke-linecap="round"></path>
+                <path d="M61.8333333,2.5 L65.1666667,2.5" id="Line-4-Copy-14" stroke="#405F88" stroke-width="3" opacity="0.15" stroke-linecap="round"></path>
+                <path d="M167.333333,50.5 L168.666667,50.5" id="Line-4-Copy-14" stroke="#405F88" stroke-width="3" opacity="0.15" stroke-linecap="round"></path>
+                <path d="M174.333333,50.5 L175.666667,50.5" id="Line-4-Copy-14" stroke="#405F88" stroke-width="3" opacity="0.15" stroke-linecap="round"></path>
+                <path d="M167,90.5 L175,90.5" id="Line-4-Copy-14" stroke="#405F88" stroke-width="3" opacity="0.15" stroke-linecap="round"></path>
+                <path d="M140,19.5 L148,19.5" id="Line-4-Copy-14" stroke="#405F88" stroke-width="3" opacity="0.15" stroke-linecap="round"></path>
+                <path d="M181,90.5 L189,90.5" id="Line-4-Copy-14" stroke="#405F88" stroke-width="3" opacity="0.15" stroke-linecap="round"></path>
+                <path d="M149,120.5 L157,120.5" id="Line-4-Copy-14" stroke="#405F88" stroke-width="3" opacity="0.15" stroke-linecap="round"></path>
+                <path d="M163,120.5 L171,120.5" id="Line-4-Copy-14" stroke="#405F88" stroke-width="3" opacity="0.15" stroke-linecap="round"></path>
+                <path d="M123,143.5 L131,143.5" id="Line-4-Copy-14" stroke="#405F88" stroke-width="3" opacity="0.15" stroke-linecap="round"></path>
+                <path d="M176.833333,120.5 L180.166667,120.5" id="Line-4-Copy-14" stroke="#405F88" stroke-width="3" opacity="0.15" stroke-linecap="round"></path>
+                <path d="M20.6666667,124.5 L23.3333333,124.5" id="Line-4-Copy-14" stroke="#405F88" stroke-width="3" opacity="0.15" stroke-linecap="round"></path>
+                <path d="M0.666666667,50.5 L3.33333333,50.5" id="Line-4-Copy-14" stroke="#405F88" stroke-width="3" opacity="0.15" stroke-linecap="round"></path>
+                <g id="Group-20" transform="translate(19.000000, 0.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Oval-4-Copy" fill="#F8F8F8" xlink:href="#path-1"></use>
+                    <g id="Group-19" opacity="0.02" style="mix-blend-mode: multiply;" mask="url(#mask-2)" stroke-linecap="round" stroke-linejoin="round">
+                        <g transform="translate(-30.000000, -10.000000)">
+                            <g id="Group-18">
+                                <g id="Group" stroke="#000000">
+                                    <polygon id="Stroke-51" points="37.05 19.7045455 21.85 19.7045455 21.85 0.938311688 31.35 0.938311688 37.05 6.56818182"></polygon>
+                                    <polygon id="Stroke-55" points="16.15 19.7045455 0.95 19.7045455 0.95 0.938311688 10.45 0.938311688 16.15 6.56818182"></polygon>
+                                    <polygon id="Stroke-59" points="37.05 44.1006494 21.85 44.1006494 21.85 25.3344156 31.35 25.3344156 37.05 30.9642857"></polygon>
+                                    <polyline id="Stroke-61" points="31.35 25.3344156 31.35 30.9642857 37.05 30.9642857"></polyline>
+                                    <polygon id="Stroke-63" points="16.15 44.1006494 0.95 44.1006494 0.95 25.3344156 10.45 25.3344156 16.15 30.9642857"></polygon>
+                                    <polyline id="Stroke-65" points="10.45 25.3344156 10.45 30.9642857 16.15 30.9642857"></polyline>
+                                </g>
+                                <g id="Group-Copy-2" transform="translate(0.000000, 97.584416)" stroke="#000000">
+                                    <polygon id="Stroke-51" points="37.05 19.7045455 21.85 19.7045455 21.85 0.938311688 31.35 0.938311688 37.05 6.56818182"></polygon>
+                                    <polyline id="Stroke-53" points="31.35 0.938311688 31.35 6.56818182 37.05 6.56818182"></polyline>
+                                    <polygon id="Stroke-55" points="16.15 19.7045455 0.95 19.7045455 0.95 0.938311688 10.45 0.938311688 16.15 6.56818182"></polygon>
+                                    <polyline id="Stroke-57" points="10.45 0.938311688 10.45 6.56818182 16.15 6.56818182"></polyline>
+                                    <polygon id="Stroke-59" points="37.05 44.1006494 21.85 44.1006494 21.85 25.3344156 31.35 25.3344156 37.05 30.9642857"></polygon>
+                                    <polyline id="Stroke-61" points="31.35 25.3344156 31.35 30.9642857 37.05 30.9642857"></polyline>
+                                    <polygon id="Stroke-63" points="16.15 44.1006494 0.95 44.1006494 0.95 25.3344156 10.45 25.3344156 16.15 30.9642857"></polygon>
+                                    <polyline id="Stroke-65" points="10.45 25.3344156 10.45 30.9642857 16.15 30.9642857"></polyline>
+                                </g>
+                                <g id="Group-Copy" transform="translate(0.000000, 48.792208)" stroke="#000000">
+                                    <polygon id="Stroke-51" points="37.05 19.7045455 21.85 19.7045455 21.85 0.938311688 31.35 0.938311688 37.05 6.56818182"></polygon>
+                                    <polyline id="Stroke-53" points="31.35 0.938311688 31.35 6.56818182 37.05 6.56818182"></polyline>
+                                    <polygon id="Stroke-55" points="16.15 19.7045455 0.95 19.7045455 0.95 0.938311688 10.45 0.938311688 16.15 6.56818182"></polygon>
+                                    <polyline id="Stroke-57" points="10.45 0.938311688 10.45 6.56818182 16.15 6.56818182"></polyline>
+                                    <polygon id="Stroke-59" points="37.05 44.1006494 21.85 44.1006494 21.85 25.3344156 31.35 25.3344156 37.05 30.9642857"></polygon>
+                                    <polyline id="Stroke-61" points="31.35 25.3344156 31.35 30.9642857 37.05 30.9642857"></polyline>
+                                    <polygon id="Stroke-63" points="16.15 44.1006494 0.95 44.1006494 0.95 25.3344156 10.45 25.3344156 16.15 30.9642857"></polygon>
+                                    <polyline id="Stroke-65" points="10.45 25.3344156 10.45 30.9642857 16.15 30.9642857"></polyline>
+                                </g>
+                                <g id="Group-Copy-3" transform="translate(0.000000, 146.376623)" stroke="#000000">
+                                    <polygon id="Stroke-51" points="37.05 19.7045455 21.85 19.7045455 21.85 0.938311688 31.35 0.938311688 37.05 6.56818182"></polygon>
+                                    <polyline id="Stroke-53" points="31.35 0.938311688 31.35 6.56818182 37.05 6.56818182"></polyline>
+                                    <polygon id="Stroke-55" points="16.15 19.7045455 0.95 19.7045455 0.95 0.938311688 10.45 0.938311688 16.15 6.56818182"></polygon>
+                                    <polyline id="Stroke-57" points="10.45 0.938311688 10.45 6.56818182 16.15 6.56818182"></polyline>
+                                </g>
+                            </g>
+                            <g id="Group-18-Copy" transform="translate(41.000000, 0.000000)">
+                                <g id="Group" stroke="#000000">
+                                    <polygon id="Stroke-51" points="37.05 19.7045455 21.85 19.7045455 21.85 0.938311688 31.35 0.938311688 37.05 6.56818182"></polygon>
+                                    <polygon id="Stroke-55" points="16.15 19.7045455 0.95 19.7045455 0.95 0.938311688 10.45 0.938311688 16.15 6.56818182"></polygon>
+                                    <polygon id="Stroke-59" points="37.05 44.1006494 21.85 44.1006494 21.85 25.3344156 31.35 25.3344156 37.05 30.9642857"></polygon>
+                                    <polyline id="Stroke-61" points="31.35 25.3344156 31.35 30.9642857 37.05 30.9642857"></polyline>
+                                    <polygon id="Stroke-63" points="16.15 44.1006494 0.95 44.1006494 0.95 25.3344156 10.45 25.3344156 16.15 30.9642857"></polygon>
+                                    <polyline id="Stroke-65" points="10.45 25.3344156 10.45 30.9642857 16.15 30.9642857"></polyline>
+                                </g>
+                                <g id="Group-Copy-2" transform="translate(0.000000, 97.584416)" stroke="#000000">
+                                    <polygon id="Stroke-51" points="37.05 19.7045455 21.85 19.7045455 21.85 0.938311688 31.35 0.938311688 37.05 6.56818182"></polygon>
+                                    <polyline id="Stroke-53" points="31.35 0.938311688 31.35 6.56818182 37.05 6.56818182"></polyline>
+                                    <polygon id="Stroke-55" points="16.15 19.7045455 0.95 19.7045455 0.95 0.938311688 10.45 0.938311688 16.15 6.56818182"></polygon>
+                                    <polyline id="Stroke-57" points="10.45 0.938311688 10.45 6.56818182 16.15 6.56818182"></polyline>
+                                    <polygon id="Stroke-59" points="37.05 44.1006494 21.85 44.1006494 21.85 25.3344156 31.35 25.3344156 37.05 30.9642857"></polygon>
+                                    <polyline id="Stroke-61" points="31.35 25.3344156 31.35 30.9642857 37.05 30.9642857"></polyline>
+                                    <polygon id="Stroke-63" points="16.15 44.1006494 0.95 44.1006494 0.95 25.3344156 10.45 25.3344156 16.15 30.9642857"></polygon>
+                                    <polyline id="Stroke-65" points="10.45 25.3344156 10.45 30.9642857 16.15 30.9642857"></polyline>
+                                </g>
+                                <g id="Group-Copy" transform="translate(0.000000, 48.792208)" stroke="#000000">
+                                    <polygon id="Stroke-51" points="37.05 19.7045455 21.85 19.7045455 21.85 0.938311688 31.35 0.938311688 37.05 6.56818182"></polygon>
+                                    <polyline id="Stroke-53" points="31.35 0.938311688 31.35 6.56818182 37.05 6.56818182"></polyline>
+                                    <polygon id="Stroke-55" points="16.15 19.7045455 0.95 19.7045455 0.95 0.938311688 10.45 0.938311688 16.15 6.56818182"></polygon>
+                                    <polyline id="Stroke-57" points="10.45 0.938311688 10.45 6.56818182 16.15 6.56818182"></polyline>
+                                    <polygon id="Stroke-59" points="37.05 44.1006494 21.85 44.1006494 21.85 25.3344156 31.35 25.3344156 37.05 30.9642857"></polygon>
+                                    <polyline id="Stroke-61" points="31.35 25.3344156 31.35 30.9642857 37.05 30.9642857"></polyline>
+                                    <polygon id="Stroke-63" points="16.15 44.1006494 0.95 44.1006494 0.95 25.3344156 10.45 25.3344156 16.15 30.9642857"></polygon>
+                                    <polyline id="Stroke-65" points="10.45 25.3344156 10.45 30.9642857 16.15 30.9642857"></polyline>
+                                </g>
+                                <g id="Group-Copy-3" transform="translate(0.000000, 146.376623)" stroke="#000000">
+                                    <polygon id="Stroke-51" points="37.05 19.7045455 21.85 19.7045455 21.85 0.938311688 31.35 0.938311688 37.05 6.56818182"></polygon>
+                                    <polyline id="Stroke-53" points="31.35 0.938311688 31.35 6.56818182 37.05 6.56818182"></polyline>
+                                    <polygon id="Stroke-55" points="16.15 19.7045455 0.95 19.7045455 0.95 0.938311688 10.45 0.938311688 16.15 6.56818182"></polygon>
+                                    <polyline id="Stroke-57" points="10.45 0.938311688 10.45 6.56818182 16.15 6.56818182"></polyline>
+                                </g>
+                            </g>
+                            <g id="Group-18-Copy-4" transform="translate(165.000000, 0.000000)">
+                                <g id="Group" stroke="#000000">
+                                    <polygon id="Stroke-51" points="36.075 19.7045455 21.275 19.7045455 21.275 0.938311688 30.525 0.938311688 36.075 6.56818182"></polygon>
+                                    <polygon id="Stroke-55" points="15.725 19.7045455 0.925 19.7045455 0.925 0.938311688 10.175 0.938311688 15.725 6.56818182"></polygon>
+                                    <polygon id="Stroke-59" points="36.075 44.1006494 21.275 44.1006494 21.275 25.3344156 30.525 25.3344156 36.075 30.9642857"></polygon>
+                                    <polyline id="Stroke-61" points="30.525 25.3344156 30.525 30.9642857 36.075 30.9642857"></polyline>
+                                    <polygon id="Stroke-63" points="15.725 44.1006494 0.925 44.1006494 0.925 25.3344156 10.175 25.3344156 15.725 30.9642857"></polygon>
+                                    <polyline id="Stroke-65" points="10.175 25.3344156 10.175 30.9642857 15.725 30.9642857"></polyline>
+                                </g>
+                                <g id="Group-Copy-2" transform="translate(0.000000, 97.584416)" stroke="#000000">
+                                    <polygon id="Stroke-51" points="36.075 19.7045455 21.275 19.7045455 21.275 0.938311688 30.525 0.938311688 36.075 6.56818182"></polygon>
+                                    <polyline id="Stroke-53" points="30.525 0.938311688 30.525 6.56818182 36.075 6.56818182"></polyline>
+                                    <polygon id="Stroke-55" points="15.725 19.7045455 0.925 19.7045455 0.925 0.938311688 10.175 0.938311688 15.725 6.56818182"></polygon>
+                                    <polyline id="Stroke-57" points="10.175 0.938311688 10.175 6.56818182 15.725 6.56818182"></polyline>
+                                    <polygon id="Stroke-59" points="36.075 44.1006494 21.275 44.1006494 21.275 25.3344156 30.525 25.3344156 36.075 30.9642857"></polygon>
+                                    <polyline id="Stroke-61" points="30.525 25.3344156 30.525 30.9642857 36.075 30.9642857"></polyline>
+                                    <polygon id="Stroke-63" points="15.725 44.1006494 0.925 44.1006494 0.925 25.3344156 10.175 25.3344156 15.725 30.9642857"></polygon>
+                                    <polyline id="Stroke-65" points="10.175 25.3344156 10.175 30.9642857 15.725 30.9642857"></polyline>
+                                </g>
+                                <g id="Group-Copy" transform="translate(0.000000, 48.792208)" stroke="#000000">
+                                    <polygon id="Stroke-51" points="36.075 19.7045455 21.275 19.7045455 21.275 0.938311688 30.525 0.938311688 36.075 6.56818182"></polygon>
+                                    <polyline id="Stroke-53" points="30.525 0.938311688 30.525 6.56818182 36.075 6.56818182"></polyline>
+                                    <polygon id="Stroke-55" points="15.725 19.7045455 0.925 19.7045455 0.925 0.938311688 10.175 0.938311688 15.725 6.56818182"></polygon>
+                                    <polyline id="Stroke-57" points="10.175 0.938311688 10.175 6.56818182 15.725 6.56818182"></polyline>
+                                    <polygon id="Stroke-59" points="36.075 44.1006494 21.275 44.1006494 21.275 25.3344156 30.525 25.3344156 36.075 30.9642857"></polygon>
+                                    <polyline id="Stroke-61" points="30.525 25.3344156 30.525 30.9642857 36.075 30.9642857"></polyline>
+                                    <polygon id="Stroke-63" points="15.725 44.1006494 0.925 44.1006494 0.925 25.3344156 10.175 25.3344156 15.725 30.9642857"></polygon>
+                                    <polyline id="Stroke-65" points="10.175 25.3344156 10.175 30.9642857 15.725 30.9642857"></polyline>
+                                </g>
+                                <g id="Group-Copy-3" transform="translate(0.000000, 146.376623)" stroke="#000000">
+                                    <polygon id="Stroke-51" points="36.075 19.7045455 21.275 19.7045455 21.275 0.938311688 30.525 0.938311688 36.075 6.56818182"></polygon>
+                                    <polyline id="Stroke-53" points="30.525 0.938311688 30.525 6.56818182 36.075 6.56818182"></polyline>
+                                    <polygon id="Stroke-55" points="15.725 19.7045455 0.925 19.7045455 0.925 0.938311688 10.175 0.938311688 15.725 6.56818182"></polygon>
+                                    <polyline id="Stroke-57" points="10.175 0.938311688 10.175 6.56818182 15.725 6.56818182"></polyline>
+                                </g>
+                            </g>
+                            <g id="Group-18-Copy-2" transform="translate(83.000000, 0.000000)">
+                                <g id="Group" stroke="#000000">
+                                    <polygon id="Stroke-51" points="36.075 19.7045455 21.275 19.7045455 21.275 0.938311688 30.525 0.938311688 36.075 6.56818182"></polygon>
+                                    <polygon id="Stroke-55" points="15.725 19.7045455 0.925 19.7045455 0.925 0.938311688 10.175 0.938311688 15.725 6.56818182"></polygon>
+                                    <polygon id="Stroke-59" points="36.075 44.1006494 21.275 44.1006494 21.275 25.3344156 30.525 25.3344156 36.075 30.9642857"></polygon>
+                                    <polyline id="Stroke-61" points="30.525 25.3344156 30.525 30.9642857 36.075 30.9642857"></polyline>
+                                    <polygon id="Stroke-63" points="15.725 44.1006494 0.925 44.1006494 0.925 25.3344156 10.175 25.3344156 15.725 30.9642857"></polygon>
+                                    <polyline id="Stroke-65" points="10.175 25.3344156 10.175 30.9642857 15.725 30.9642857"></polyline>
+                                </g>
+                                <g id="Group-Copy-2" transform="translate(0.000000, 97.584416)" stroke="#000000">
+                                    <polygon id="Stroke-51" points="36.075 19.7045455 21.275 19.7045455 21.275 0.938311688 30.525 0.938311688 36.075 6.56818182"></polygon>
+                                    <polyline id="Stroke-53" points="30.525 0.938311688 30.525 6.56818182 36.075 6.56818182"></polyline>
+                                    <polygon id="Stroke-55" points="15.725 19.7045455 0.925 19.7045455 0.925 0.938311688 10.175 0.938311688 15.725 6.56818182"></polygon>
+                                    <polyline id="Stroke-57" points="10.175 0.938311688 10.175 6.56818182 15.725 6.56818182"></polyline>
+                                    <polygon id="Stroke-59" points="36.075 44.1006494 21.275 44.1006494 21.275 25.3344156 30.525 25.3344156 36.075 30.9642857"></polygon>
+                                    <polyline id="Stroke-61" points="30.525 25.3344156 30.525 30.9642857 36.075 30.9642857"></polyline>
+                                    <polygon id="Stroke-63" points="15.725 44.1006494 0.925 44.1006494 0.925 25.3344156 10.175 25.3344156 15.725 30.9642857"></polygon>
+                                    <polyline id="Stroke-65" points="10.175 25.3344156 10.175 30.9642857 15.725 30.9642857"></polyline>
+                                </g>
+                                <g id="Group-Copy" transform="translate(0.000000, 48.792208)" stroke="#000000">
+                                    <polygon id="Stroke-51" points="36.075 19.7045455 21.275 19.7045455 21.275 0.938311688 30.525 0.938311688 36.075 6.56818182"></polygon>
+                                    <polyline id="Stroke-53" points="30.525 0.938311688 30.525 6.56818182 36.075 6.56818182"></polyline>
+                                    <polygon id="Stroke-55" points="15.725 19.7045455 0.925 19.7045455 0.925 0.938311688 10.175 0.938311688 15.725 6.56818182"></polygon>
+                                    <polyline id="Stroke-57" points="10.175 0.938311688 10.175 6.56818182 15.725 6.56818182"></polyline>
+                                    <polygon id="Stroke-59" points="36.075 44.1006494 21.275 44.1006494 21.275 25.3344156 30.525 25.3344156 36.075 30.9642857"></polygon>
+                                    <polyline id="Stroke-61" points="30.525 25.3344156 30.525 30.9642857 36.075 30.9642857"></polyline>
+                                    <polygon id="Stroke-63" points="15.725 44.1006494 0.925 44.1006494 0.925 25.3344156 10.175 25.3344156 15.725 30.9642857"></polygon>
+                                    <polyline id="Stroke-65" points="10.175 25.3344156 10.175 30.9642857 15.725 30.9642857"></polyline>
+                                </g>
+                                <g id="Group-Copy-3" transform="translate(0.000000, 146.376623)" stroke="#000000">
+                                    <polygon id="Stroke-51" points="36.075 19.7045455 21.275 19.7045455 21.275 0.938311688 30.525 0.938311688 36.075 6.56818182"></polygon>
+                                    <polyline id="Stroke-53" points="30.525 0.938311688 30.525 6.56818182 36.075 6.56818182"></polyline>
+                                    <polygon id="Stroke-55" points="15.725 19.7045455 0.925 19.7045455 0.925 0.938311688 10.175 0.938311688 15.725 6.56818182"></polygon>
+                                    <polyline id="Stroke-57" points="10.175 0.938311688 10.175 6.56818182 15.725 6.56818182"></polyline>
+                                </g>
+                            </g>
+                            <g id="Group-18-Copy-3" transform="translate(124.000000, 0.000000)">
+                                <g id="Group" stroke="#000000">
+                                    <polygon id="Stroke-51" points="37.05 19.7045455 21.85 19.7045455 21.85 0.938311688 31.35 0.938311688 37.05 6.56818182"></polygon>
+                                    <polygon id="Stroke-55" points="16.15 19.7045455 0.95 19.7045455 0.95 0.938311688 10.45 0.938311688 16.15 6.56818182"></polygon>
+                                    <polygon id="Stroke-59" points="37.05 44.1006494 21.85 44.1006494 21.85 25.3344156 31.35 25.3344156 37.05 30.9642857"></polygon>
+                                    <polyline id="Stroke-61" points="31.35 25.3344156 31.35 30.9642857 37.05 30.9642857"></polyline>
+                                    <polygon id="Stroke-63" points="16.15 44.1006494 0.95 44.1006494 0.95 25.3344156 10.45 25.3344156 16.15 30.9642857"></polygon>
+                                    <polyline id="Stroke-65" points="10.45 25.3344156 10.45 30.9642857 16.15 30.9642857"></polyline>
+                                </g>
+                                <g id="Group-Copy-2" transform="translate(0.000000, 97.584416)" stroke="#000000">
+                                    <polygon id="Stroke-51" points="37.05 19.7045455 21.85 19.7045455 21.85 0.938311688 31.35 0.938311688 37.05 6.56818182"></polygon>
+                                    <polyline id="Stroke-53" points="31.35 0.938311688 31.35 6.56818182 37.05 6.56818182"></polyline>
+                                    <polygon id="Stroke-55" points="16.15 19.7045455 0.95 19.7045455 0.95 0.938311688 10.45 0.938311688 16.15 6.56818182"></polygon>
+                                    <polyline id="Stroke-57" points="10.45 0.938311688 10.45 6.56818182 16.15 6.56818182"></polyline>
+                                    <polygon id="Stroke-59" points="37.05 44.1006494 21.85 44.1006494 21.85 25.3344156 31.35 25.3344156 37.05 30.9642857"></polygon>
+                                    <polyline id="Stroke-61" points="31.35 25.3344156 31.35 30.9642857 37.05 30.9642857"></polyline>
+                                    <polygon id="Stroke-63" points="16.15 44.1006494 0.95 44.1006494 0.95 25.3344156 10.45 25.3344156 16.15 30.9642857"></polygon>
+                                    <polyline id="Stroke-65" points="10.45 25.3344156 10.45 30.9642857 16.15 30.9642857"></polyline>
+                                </g>
+                                <g id="Group-Copy" transform="translate(0.000000, 48.792208)" stroke="#000000">
+                                    <polygon id="Stroke-51" points="37.05 19.7045455 21.85 19.7045455 21.85 0.938311688 31.35 0.938311688 37.05 6.56818182"></polygon>
+                                    <polyline id="Stroke-53" points="31.35 0.938311688 31.35 6.56818182 37.05 6.56818182"></polyline>
+                                    <polygon id="Stroke-55" points="16.15 19.7045455 0.95 19.7045455 0.95 0.938311688 10.45 0.938311688 16.15 6.56818182"></polygon>
+                                    <polyline id="Stroke-57" points="10.45 0.938311688 10.45 6.56818182 16.15 6.56818182"></polyline>
+                                    <polygon id="Stroke-59" points="37.05 44.1006494 21.85 44.1006494 21.85 25.3344156 31.35 25.3344156 37.05 30.9642857"></polygon>
+                                    <polyline id="Stroke-61" points="31.35 25.3344156 31.35 30.9642857 37.05 30.9642857"></polyline>
+                                    <polygon id="Stroke-63" points="16.15 44.1006494 0.95 44.1006494 0.95 25.3344156 10.45 25.3344156 16.15 30.9642857"></polygon>
+                                    <polyline id="Stroke-65" points="10.45 25.3344156 10.45 30.9642857 16.15 30.9642857"></polyline>
+                                </g>
+                                <g id="Group-Copy-3" transform="translate(0.000000, 146.376623)" stroke="#000000">
+                                    <polygon id="Stroke-51" points="37.05 19.7045455 21.85 19.7045455 21.85 0.938311688 31.35 0.938311688 37.05 6.56818182"></polygon>
+                                    <polyline id="Stroke-53" points="31.35 0.938311688 31.35 6.56818182 37.05 6.56818182"></polyline>
+                                    <polygon id="Stroke-55" points="16.15 19.7045455 0.95 19.7045455 0.95 0.938311688 10.45 0.938311688 16.15 6.56818182"></polygon>
+                                    <polyline id="Stroke-57" points="10.45 0.938311688 10.45 6.56818182 16.15 6.56818182"></polyline>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <rect id="Rectangle" fill="#F1F1F1" x="72" y="86" width="5" height="8"></rect>
+                <g id="Group-21" transform="translate(30.000000, 40.000000)">
+                    <g id="Group-3" transform="translate(28.000000, 0.000000)" fill="#FFFFFF">
+                        <g id="Stroke-337-+-Stroke-338-Copy" transform="translate(35.500000, 35.500000) scale(-1, 1) translate(-35.500000, -35.500000) ">
+                            <path d="M70.4285714,35.2142857 C70.4285714,54.661375 54.661375,70.4285714 35.2142857,70.4285714 C15.7671964,70.4285714 0,54.661375 0,35.2142857 C0,15.7627946 15.7671964,0 35.2142857,0 C54.661375,0 70.4285714,15.7627946 70.4285714,35.2142857 L70.4285714,35.2142857 Z" id="Stroke-337"></path>
+                        </g>
+                    </g>
+                    <g id="Group-16" transform="translate(35.000000, 20.000000)">
+                        <g id="Group">
+                            <polygon id="Stroke-261" stroke="#7F94AF" fill="#FFFFFF" stroke-linejoin="round" points="41 7.05376344 33.7859238 0 21.1612903 0 21.1612903 26.4516129 41 26.4516129"></polygon>
+                            <polyline id="Stroke-262" stroke="#7F94AF" stroke-linecap="round" stroke-linejoin="round" points="33.0645161 0 33.0645161 6.61290323 39.6774194 6.61290323"></polyline>
+                            <polygon id="Stroke-263" stroke="#9FAFC3" stroke-linejoin="round" points="6.61290323 39.6774194 2.60400391 39.6774194 0 36.9453125 0 27.7741935 6.61290323 27.7741935"></polygon>
+                            <path d="M6.61290323,38.3548387 L37.0322581,38.3548387 C37.0322581,35.7096774 30.7694497,33.0645161 23.6119545,33.0645161 L11.0863378,33.0645161" id="Stroke-264" stroke="#9FAFC3" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M6.61290323,29.0967742 L12.7849462,29.0967742 C16.9343226,29.0967742 18.9569892,32.0725806 19.8387097,33.0645161" id="Stroke-265" stroke="#9FAFC3" stroke-linejoin="round"></path>
+                            <path d="M3.30645161,35.7096774 C2.94141935,35.7096774 2.64516129,36.0059355 2.64516129,36.3709677 C2.64516129,36.736 2.94141935,37.0322581 3.30645161,37.0322581 C3.67016129,37.0322581 3.96774194,36.736 3.96774194,36.3709677 C3.96774194,36.0059355 3.67016129,35.7096774 3.30645161,35.7096774" id="Fill-266"></path>
+                        </g>
+                        <g id="Stroke-761-+-Stroke-762" transform="translate(25.129032, 9.258065)" stroke="#1EC1B0" stroke-linecap="round" stroke-linejoin="round">
+                            <path d="M12.4456325,6.22281624 C12.4456325,9.65997526 9.65889303,12.4456325 6.22281624,12.4456325 C2.7851161,12.4456325 0,9.65997526 0,6.22281624 C0,2.78565722 2.7851161,0 6.22281624,0 C9.65889303,0 12.4456325,2.78565722 12.4456325,6.22281624 L12.4456325,6.22281624 Z" id="Stroke-762" fill="#FFFFFF"></path>
+                            <polyline id="Stroke-761" points="8.98851234 4.14854416 4.83996818 8.16189944 3.45712013 6.72855827"></polyline>
+                        </g>
+                    </g>
+                    <path d="M99,35.2142857 C99,54.661375 83.2328036,70.4285714 63.7857143,70.4285714 C44.338625,70.4285714 28.5714286,54.661375 28.5714286,35.2142857 C28.5714286,15.7627946 44.338625,0 63.7857143,0 C83.2328036,0 99,15.7627946 99,35.2142857 L99,35.2142857 Z" id="Stroke-337" stroke="#BECCD4" stroke-width="2" stroke-linejoin="round"></path>
+                    <path d="M0.285714286,60.7142857 L37.6015888,98.0301602" id="Stroke-338" stroke="#BECCD4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(19.285714, 79.714286) scale(-1, 1) translate(-19.285714, -79.714286) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

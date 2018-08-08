@@ -1,0 +1,131 @@
+@font-face {
+	font-family: 'icomoon';
+	src:  url('../fonts/icomoon.eot?pxwojh');
+	src:  url('../fonts/icomoon.eot?pxwojh#iefix') format('embedded-opentype'),
+	url('../fonts/icomoon.ttf?pxwojh') format('truetype'),
+	url('../fonts/icomoon.woff?pxwojh') format('woff'),
+	url('../fonts/icomoon.svg?pxwojh#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+.fi {
+	/* use !important to prevent issues with browser extensions that change fonts */
+	font-family: 'icomoon' !important;
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-email_sent:before {
+	content: "\e921";
+}
+.icon-email_read:before {
+	content: "\e922";
+}
+.icon-profile:before {
+	content: "\e905";
+}
+.icon-email_template:before {
+	content: "\e906";
+}
+.icon-practice_setting:before {
+	content: "\e907";
+}
+.icon-lock:before {
+	content: "\e900";
+}
+.icon-thick_check:before {
+	content: "\e901";
+}
+.icon-right_arrow_2:before {
+	content: "\e902";
+}
+.icon-add-circle:before {
+	content: "\e903";
+}
+.icon-add:before {
+	content: "\e904";
+}
+.icon-left-arrow:before {
+	content: "\e908";
+}
+.icon-check:before {
+	content: "\e909";
+}
+.icon-check-off:before {
+	content: "\e90a";
+}
+.icon-check-on:before {
+	content: "\e90b";
+}
+.icon-close:before {
+	content: "\e90c";
+}
+.icon-close-round:before {
+	content: "\e90d";
+}
+.icon-dropdown:before {
+	content: "\e90e";
+}
+.icon-right-arrow:before {
+	content: "\e90f";
+}
+.icon-group:before {
+	content: "\e910";
+}
+.icon-information:before {
+	content: "\e911";
+}
+.icon-no-connection:before {
+	content: "\e912";
+}
+.icon-search-icon:before {
+	content: "\e913";
+}
+.icon-c-suite:before {
+	content: "\e914";
+}
+.icon-no_contact_search:before {
+	content: "\e915";
+}
+.icon-smile_chat:before {
+	content: "\e916";
+}
+.icon-exclamation_mark_icon:before {
+	content: "\e917";
+}
+.icon-launch_arrow:before {
+	content: "\e918";
+}
+.icon-find_setting:before {
+	content: "\e919";
+}
+.icon-airplane:before {
+	content: "\e91a";
+}
+.icon-alert_triangle:before {
+	content: "\e91b";
+}
+.icon-drop_down:before {
+	content: "\e91c";
+}
+.icon-settings_line:before {
+	content: "\e91d";
+}
+.icon-settings_solid:before {
+	content: "\e91e";
+}
+.icon-feed:before {
+	content: "\e91f";
+}
+.icon-navigation:before {
+	content: "\e920";
+}
